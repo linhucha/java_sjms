@@ -1,4 +1,4 @@
-package factory.singleton;
+package singleton;
 
 /**
  * Created by lyj on 2017/6/22.

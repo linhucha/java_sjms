@@ -11,6 +11,6 @@ public abstract class BMW {
     }
 
     public void a(){
-        System.out.println("AAAAAAAAAAAABBBBBBBAAAAAA1231231111111111111");
+        System.out.println("AAAAAAAAAAAABBBBBBBAAAAAA");
     }
 }
